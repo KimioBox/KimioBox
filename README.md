@@ -23,7 +23,7 @@ Among the changes I would make until is finished I can name:
 
 ## About this repository
 
-**WARNING: This repo uses FreeCAD 0.16, FreeCAD 0.17 is too recent an the files haven't been migrated yet.**
+**WARNING: This repo uses FreeCAD 0.16, FreeCAD 0.17 is too recent and the files haven't been migrated yet.**
 
 This repository holds the mechanical information of the device, and wiki. Android app information and firmware information are held in other repos.
 
