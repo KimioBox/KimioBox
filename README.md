@@ -16,6 +16,16 @@ For this remix I traced the original stls, and made  [FreeCAD][FreeCADlink] file
 
 I also made small changes for printability. Although the model is still not yet polished.
 
+## Bill of Materials
+
+- 1 x M5x10mm Bolt. (DIN912 recommended)
+- 2 x M5x20mm Countersunk Bolt (DIN7991 recommended)
+- 3 x M5 nuts.
+- 4 x M3x8mm Bolt (DIN912 recommended)
+- 4 x M3 nuts.
+- Superglue to glue the superhero icon.
+
+
 ## TODO
 Among the changes I would make until is finished I can name:
 - Make printable sticks for the hinges, in case you don't have bolts.
