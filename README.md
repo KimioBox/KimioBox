@@ -18,7 +18,7 @@ I also made small changes for printability. Although the model is still not yet 
 
 ## TODO
 Among the changes I would make until is finished I can name:
-- Make printable sticks for the hinges, as right now you cannot assemble them with nut and a screw
+- Make printable sticks for the hinges, in case you don't have bolts.
 - Add magnets to the door, so it closes easily. (I think someone made this already)
 
 ## About this repository
