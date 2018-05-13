@@ -16,6 +16,11 @@ For this remix I traced the original stls, and made  [FreeCAD][FreeCADlink] file
 
 I also made small changes for printability. Although the model is still not yet polished.
 
+## Print Instructions
+
+Parts have been already oriented to be printed easily.
+The box is printed it two stls, that combines the two halves of each half of the box. This way, you don't have to use support material.
+
 ## Bill of Materials
 
 - 1 x M5x10mm Bolt. (DIN912 recommended)
