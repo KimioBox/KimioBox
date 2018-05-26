@@ -57,6 +57,13 @@ Due to FCStd files being unmergeable, Assembly.FCStd is modified only on the Dev
 
 Also, there may be files that use [@DeepSOIC 's Lattice2 workbench][LatticeLink]'s Recompute locker. This may be used to avoid FreeCAD to recompute a whole file each time an operation is readjusted.
 
+## License
+
+Licensed under Creative Commons 4.0 Attribution Share-Alike
+
+<img src="./doc/cc-by-sa.png" width="200" align = "center">
+
+
 [FreeCADlink]: http://www.freecadweb.org/
 [issue]: https://github.com/gvJaime/ChemoBox/issues/new
 [Develop]: https://github.com/gvJaime/ChemoBox/tree/master
