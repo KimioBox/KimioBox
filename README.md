@@ -1,6 +1,6 @@
-# SuperHero ChemoBox
+# SuperHero ChemoBox (KimioBox branch)
 
-<img src="./doc/Chemo.png" width="458" align="center">
+<img src="./doc/KimioBox.png" width="458" align="center">
 
 ## Description
 
