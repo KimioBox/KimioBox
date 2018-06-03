@@ -57,6 +57,13 @@ Due to FCStd files being unmergeable, Assembly.FCStd is modified only on the Dev
 
 Also, there may be files that use [@DeepSOIC 's Lattice2 workbench][LatticeLink]'s Recompute locker. This may be used to avoid FreeCAD to recompute a whole file each time an operation is readjusted.
 
+In case of contributing using gitflow, and to take advantage of git diff features on FCStd files, and avoid big commit files, paste this lines on .git/config:
+```
+[include]
+    path = ../.gitconfig
+```
+These will include the particular repo configuration, that tells git to unzip the files before diffing them.
+
 ## License
 
 Licensed under Creative Commons 4.0 Attribution Share-Alike
