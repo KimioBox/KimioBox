@@ -23,12 +23,13 @@ The box is printed it two stls, that combines the two halves of each half of the
 
 ## Bill of Materials
 
-- 1 x M5x10mm Bolt. (DIN912 recommended)
+- 1 x M4x10mm bolt. (DIN912 or DIN7984 recommended)
+- 1 x M4 nut
 - 2 x M5x20mm Countersunk Bolt (DIN7991 recommended)
-- 3 x M5 nuts.
-- 4 x M3x8mm Bolt (DIN912 recommended)
+- 2 x M5 nuts.
+- 4 x M3x8mm bolt (DIN912 recommended)
 - 4 x M3 nuts.
-- Superglue to glue the superhero icon.
+- Superglue or epoxy to glue the superhero icon.
 
 
 ## TODO
