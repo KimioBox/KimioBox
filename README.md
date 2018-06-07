@@ -23,12 +23,19 @@ The box is printed it two stls, that combines the two halves of each half of the
 
 ## Bill of Materials
 
+### Bolts and nuts
+
+All of them must be **stainless steel**. It is recommended no to use coated one due to their toxicity
+
 - 1 x M4x10mm bolt. (DIN912 or DIN7984 recommended)
 - 1 x M4 nut
 - 2 x M5x20mm Countersunk Bolt (DIN7991 recommended)
 - 2 x M5 nuts.
 - 4 x M3x8mm bolt (DIN912 recommended)
 - 4 x M3 nuts.
+
+### Glue
+
 - Superglue or epoxy to glue the superhero icon.
 
 
@@ -48,7 +55,7 @@ This repository holds the mechanical information of the device, and wiki. Androi
 * `stl_original`: Original STL files kept for historical purposes.
 * `doc`: useful files for documentation
 
-### Contributing to this repository. Developer notes
+### Modifying the sources. Contributing. Developer notes.
 
 You can contribute to this repo by forking it, and making pull requests straight to the [master branch][Develop]. If you find problems to make the contribution this way, [place an issue][issue] and we'll work it out.
 
@@ -58,7 +65,7 @@ Due to FCStd files being unmergeable, Assembly.FCStd is modified only on the Dev
 
 Also, there may be files that use [@DeepSOIC 's Lattice2 workbench][LatticeLink]'s Recompute locker. This may be used to avoid FreeCAD to recompute a whole file each time an operation is readjusted.
 
-In case of contributing using gitflow, and to take advantage of git diff features on FCStd files, and avoid big commit files, paste this lines on .git/config:
+In case of contributing using gitflow, and to take advantage of git diff features on FCStd files, and avoid big commit files, paste this lines on your git configuration (~/.git/config or ~/.gitconfig):
 ```
 [include]
     path = ../.gitconfig
