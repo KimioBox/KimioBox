@@ -7,8 +7,12 @@ FILE_NAME(
   '2018-03-19T19:31:51',('Author'),(''),
 =======
 '/run/media/elgambitero/FILES/Documents/Desarrollos/Design/ChemoBox/src/
+<<<<<<< HEAD
 Step/UpperFront.step','2018-05-16T09:52:56',('Author'),(''),
 >>>>>>> 7f13463... fix error that fused the two lids together. Update STLs and Assembly
+=======
+Step/UpperFront.step','2018-06-07T23:06:20',('Author'),(''),
+>>>>>>> 710f335... Add missing door limit
   'Open CASCADE STEP processor 6.9','FreeCAD','Unknown');
 FILE_SCHEMA(('AUTOMOTIVE_DESIGN_CC2 { 1 2 10303 214 -1 1 5 4 }'));
 ENDSEC;
@@ -16639,6 +16643,7 @@ SHAPE_REPRESENTATION_RELATIONSHIP() );
 #11707 = NEXT_ASSEMBLY_USAGE_OCCURRENCE('3','=>[0:1:1:2]','',#5,#11698,$
 >>>>>>> 7f13463... fix error that fused the two lids together. Update STLs and Assembly
   );
+<<<<<<< HEAD
 #11594 = PRODUCT_TYPE('part',$,(#11586));
 #11595 = MECHANICAL_DESIGN_GEOMETRIC_PRESENTATION_REPRESENTATION('',(
     #11596),#11577);
@@ -16652,5 +16657,20 @@ SHAPE_REPRESENTATION_RELATIONSHIP() );
 #11603 = COLOUR_RGB('',0.800000011921,0.800000011921,0.800000011921);
 #11604 = CURVE_STYLE('',#11605,POSITIVE_LENGTH_MEASURE(0.1),#11603);
 #11605 = DRAUGHTING_PRE_DEFINED_CURVE_FONT('continuous');
+=======
+#11708 = PRODUCT_TYPE('part',$,(#11700));
+#11709 = MECHANICAL_DESIGN_GEOMETRIC_PRESENTATION_REPRESENTATION('',(
+    #11710),#11691);
+#11710 = STYLED_ITEM('color',(#11711),#26);
+#11711 = PRESENTATION_STYLE_ASSIGNMENT((#11712,#11718));
+#11712 = SURFACE_STYLE_USAGE(.BOTH.,#11713);
+#11713 = SURFACE_SIDE_STYLE('',(#11714));
+#11714 = SURFACE_STYLE_FILL_AREA(#11715);
+#11715 = FILL_AREA_STYLE('',(#11716));
+#11716 = FILL_AREA_STYLE_COLOUR('',#11717);
+#11717 = DRAUGHTING_PRE_DEFINED_COLOUR('white');
+#11718 = CURVE_STYLE('',#11719,POSITIVE_LENGTH_MEASURE(0.1),#11717);
+#11719 = DRAUGHTING_PRE_DEFINED_CURVE_FONT('continuous');
+>>>>>>> 710f335... Add missing door limit
 ENDSEC;
 END-ISO-10303-21;
