@@ -1,4 +1,4 @@
-# SuperHero ChemoBox
+# SuperHero ChemoBox (KimioBox Edition)
 
 <img src="./doc/Chemo.jpg" width="458" align="center">
 
@@ -18,3 +18,4 @@ the idea
 
 ```
 
+This is [the derivative made by @CelsoF](https://www.thingiverse.com/thing:2827877)
